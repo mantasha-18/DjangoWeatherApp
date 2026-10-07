@@ -52,9 +52,9 @@ DjangoWeatherApp/
     ├── settings.py
     ├── urls.py
     └── wsgi.py
+```
 
-
-## How to Run
+### How to Run
 
 ### 1. Create a virtual environment
 
@@ -143,13 +143,4 @@ The application displays the city, temperature, humidity, pressure, weather cond
 The repository contains the complete Django project files, `README.md`, `requirements.txt` and `.gitignore`.
 
 The virtual environment, `db.sqlite3` and generated `__pycache__` files are not uploaded to the repository.
-## Installation
 
-1. Clone the repository.
-
-2. Create and activate a virtual environment.
-
-3. Install the required packages:
-
-```bash
-pip install -r requirements.txt
